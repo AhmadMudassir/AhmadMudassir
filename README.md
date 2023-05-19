@@ -1,7 +1,7 @@
 # Hey there! :wave::smiley:
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tanaytoshniwal&show_icons=true&count_private=true&theme=dark"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=AhmadMudassir&show_icons=true&count_private=true&theme=dark"/>
 </p>
 
 
