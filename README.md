@@ -25,7 +25,7 @@ I am passionate about continuous learning and exploring new technologies. Curren
 
 ## 📫 Let's Connect
 
-I am open to collaborations, interesting projects, and opportunities to learn and grow. Feel free to reach out to me via email at [ahmadmudassir548@gmail.com](mailto:ahmadmudassir548@gmail.com) or connect with me on LinkedIn: [https://www.linkedin.com/in/ahmad-mudassir-31538721a](https://www.linkedin.com/in/your-profile).
+I am open to collaborations, interesting projects, and opportunities to learn and grow. Feel free to reach out to me via email at [ahmadmudassir548@gmail.com](mailto:ahmadmudassir548@gmail.com) or connect with me on LinkedIn: [https://www.linkedin.com/in/ahmad-mudassir-31538721a](https://www.linkedin.com/in/ahmad-mudassir-31538721a/).
 
 ## 🌐 Check Out My Portfolio
 
