@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+<h1 align="center">Hi , I'm Ahmad Mudassir <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Welcome to my GitHub profile! I am a MERN stack developer with experience in building web applications using MongoDB, Express.js, React.js, and Node.js. Additionally, I have a solid understanding of backend development using .NET and Entity Framework.
 
