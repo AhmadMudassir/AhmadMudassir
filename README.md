@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I am a MERN stack developer with experience in bui
 	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 </p>
 
-## 🔭 My Expertise
+## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 28px> My Expertise 
 
 - Frontend: React.js, HTML, CSS, JavaScript, Bootstrap, tailwind
 - Backend: Node.js, Express.js, .NET, Nest.js
