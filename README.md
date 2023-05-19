@@ -16,7 +16,6 @@ Welcome to my GitHub profile! I am a MERN stack developer with experience in bui
 - Deployment: Heroku, Netlify, Linode
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -35,8 +34,10 @@ I am passionate about continuous learning and exploring new technologies. Curren
 
 ## 💼 Work Experience
 
-- TechOverFlow: Backend Developer (July 16, 2022 - Present)
-  - Describe your responsibilities, projects, and technologies used.
+- TechOverFlow: FullStack Developer (July 16, 2022 - Present)
+  - Develop All backend APIs in NodeJS and .NET for 
+react applications with Database Structure in
+MongoDB and SQL.
 
 ## 📫 Let's Connect
 
@@ -44,7 +45,7 @@ I am open to collaborations, interesting projects, and opportunities to learn an
 
 ## 🌐 Check Out My Portfolio
 
-To see my projects, code samples, and more, visit my portfolio website: [Your Portfolio Website](https://your-portfolio-website.com)
+To see my projects, code samples, and more, visit my portfolio website: [https://ahmad-demo.netlify.app/](https://ahmad-demo.netlify.app/)
 
 Thank you for visiting my GitHub profile! I look forward to connecting with you.
 
